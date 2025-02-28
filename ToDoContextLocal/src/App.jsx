@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { TodoProvider } from './contexts/TodoContext';
-import TodoForm from './components/TodoForm';
-import TodoItem from './components/TodoForm';
+import TodoForm from './components/TodoForm.jsx';
+import TodoItem from './components/TodoForm.jsx';
 import './App.css';
 
 function App() {
