@@ -1,4 +1,4 @@
-import TodoForm from "./TodoForm";
-import TodoItem from "./TodoItem";
+export { default as ToDoForm } from './TodoForm';
+import TodoItem from "./ToDoItem";
 
 export {TodoForm, TodoItem}
